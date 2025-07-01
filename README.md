@@ -9,7 +9,6 @@ Ensure the following tools are installed on your system:
 
 
 
-
 ## Installation
 Follow these steps to install and run the project locally:
 
@@ -44,7 +43,6 @@ php artisan migrate
 ```bash
 php artisan dp:seed
 ```
-
 
 
 
