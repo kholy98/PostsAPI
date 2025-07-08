@@ -45,14 +45,3 @@ php artisan dp:seed
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
